@@ -1,5 +1,5 @@
 [package]
-name = "acm-rust-template"
+name = "{{project-name}}"
 version = "0.1.0"
 edition = "2021"
 
